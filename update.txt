@@ -6,7 +6,7 @@
 -增加首页公告
 -增加历史记录
 【内容】
-【链接】https://pan.bilnn.cn/api/v3/file/sourcejump/P8dxEPUO/9CLLhlPpK3y8xR1CHq1UwSh-p9ystX7nRnnM2HMYL5g*【链接】
+【链接】https://v.11na.cn/app/app2.1.3.apk【链接】
 --- 显示公告：1为开启，0为关闭 ---
 【显示公告】1【显示公告】
 【公告内容】
