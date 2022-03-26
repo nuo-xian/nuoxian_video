@@ -3,7 +3,7 @@
 【内容】
 -更换服务器，需要更新APP
 【内容】
-【链接】https://v.fufudan.cn/app/app2.1.6.apk【链接】
+【链接】https://v.fufudan.top/app/app2.1.6.apk【链接】
 --- 显示公告：1为开启，0为关闭 ---
 【显示公告】1【显示公告】
 【公告内容】
